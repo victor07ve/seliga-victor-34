@@ -1,0 +1,45 @@
+html{
+    background-color: white;
+}
+
+header{
+    background-color: black;
+    color: darkorange;
+    font-size: 22px;
+    font-family: 'Verdana';
+    padding: 1rem;
+    text-transform: uppercase;
+    display: block;
+}
+
+main{
+    background-color: blueviolet;
+    color: white;
+    padding: 5rem;
+    justify-content: center;
+    display: flex;
+}
+
+.video{
+    margin-left: 5cm;
+}
+
+footer{
+    background-color: black;
+}
+
+h2{
+    padding: 1rem;
+    color: darkorange;
+    font-size: 22px;
+}
+
+.filmes{
+    display: flex;
+    justify-content: space-between;
+}
+
+a img{
+        width: 95%;
+        padding-left: 50px;
+}
